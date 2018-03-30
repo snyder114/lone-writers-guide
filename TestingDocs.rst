@@ -21,7 +21,8 @@ Testing documentation is one of the most vital aspects of being a technical writ
 
 The documentation can be tested in a number of different ways to many different degrees of complexity. These range from running the documents through a spelling and grammar checker, to manually reviewing the documentation to remove any ambiguity or inconsistency.
 
-###### Who can test the docs?
+Who can test the docs?
+--------------------
 
 It's best to get multiple pairs of eyes on your content, preferably from different area of the team and with varying degrees of expertise. 
 
@@ -35,7 +36,8 @@ It's best to get multiple pairs of eyes on your content, preferably from differe
 
 * **PMs** - PMs are some of the best testing candidates. They have direct contact with customers, and they know specific use cases for how the feature will be used. They will be able to tell you if the documentation you have written will align with customer goals.
 
-###### Define a test process
+Define a test process
+--------------------
 
 Provide a specific test process for each of your testers to follow. This ensures that everyone has the same expectations.
 
@@ -49,7 +51,8 @@ For example, each tester should do the following:
 
 After receiving feedback, you as the writer should facilitate testing and integrate fixes into the docs.
 
-###### Assign specific topics/sections to each tester
+Assign specific topics/sections to each tester
+--------------------
 
 Don't just ask someone to "take a look" at your docs. In your test plan, make a table that clearly assigns different topics to different testers. Tell them what to focus on (the whole topic, a certain aspect of the topic, etc.) Tell them the resource requirements they'll need in order to test that portion of the doc (do they need a single instance of the product? A distributed deployment?) Give them a place to provide feedback and recommendations.
 
